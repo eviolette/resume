@@ -1,8 +1,8 @@
-name: Andrew Violette test
-email: andrew@andrewviolette.net
-phone: 847-863-4992
-website: www.andrewviolette.net
-blurb: Seasoned Programmer and Manager
+name: Ethan Violette
+email: eviolette@gmail.com
+phone: 224-241-1086
+website: www.eviolette.net
+blurb: Life Sciences Technical Consultant, Cloud Architect, Programmer
 experience:
   - company: Fast Radius
     location: Chicago, IL
@@ -62,21 +62,19 @@ experience:
     dates: Jun 1990 - August 1992
     description: ""
 education:
-  - school: Depaul University
-    location: Chicago, IL
-    degree: M.S. Software Engineering
-    dates: September 1998 - August 2000
+  - school: Indiana University
+    location: Bloomingon, IN
+    degree: B.S. Computer Science
+    dates: September 2016 - August 2019
   - school: Indiana University
     location: Bloomington, IN
-    degree: B.S. Computer Science
-    dates: September 1989 - June 1994
+    degree: B.S. Statistics
+    dates: September 2016 - August 2019
 skills:
-  - Engineering Management
-  - Java
+  - AWS Cloud (ETL, Redshift, DMS, RDB, S3, Glue, EC2)
   - Python
-  - AWS Cloud
-  - IAC
-  - Serverless
+  - Clinical Data Management
+  - SDTM/ADaM
 
 projects:
   - name: Chicago Farmers' Market Finder
