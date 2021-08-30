@@ -61,7 +61,7 @@ def convert_resume():
         _add_contact(resume_config, pdf)
         _add_skills(resume_config, pdf)
         _add_projects(resume_config, pdf)
-    pdf.output("AJVResume.pdf", "F")
+    pdf.output("EJVResume.pdf", "F")
 
 
 def _add_header(resume_config, pdf):
@@ -129,7 +129,7 @@ def _add_skills(resume_config, pdf):
 def _add_projects(resume_config, pdf):
     if not resume_config.get("projects"):
         return
-    pdf.section_header("Projects")
+    pdf.section_header("Additional Experience")
     for project in resume_config["projects"]:
         pdf.basic_bold()
         pdf.text_cell(project["name"])
