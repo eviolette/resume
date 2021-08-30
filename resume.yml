@@ -8,7 +8,21 @@ experience:
     location: Chicago, IL
     title: Consultant
     dates: July 2019 - Present
-    description: Responsible for the engineering teams, architecture, and development of the Product Studio product.
+    description: Led a Product Team to develop an cloud-hosted end-to-end automation tool with AI/ML capabilities for clinical data management.
+      Experienced in identification, prioritization, and implementation of automation use-cases for pharma clients.  
+      Multiple project experiences with converting a wide variety of clinical source data to FDA-approved standardized formats. 
+      Led Load and Performance Selenium testing for a massive SAP system using cloud-based testing frameworks.
+  - company: Deloitte
+    location: Chicago, IL
+    title: Intern
+    dates: June 2018 - August 2018
+    description: Developed python libraries to assist the implementation of a clinical data lake.
+  - company: Canete-Medina Consulting Group
+    location: Evanston, IL
+    title: Intern
+    dates: June 2017 - August 2017
+    description: Developed a full-stack MEAN application that saw production. 
+
 education:
   - school: Indiana University
     location: Bloomingon, IN
@@ -20,17 +34,16 @@ education:
     dates: September 2016 - June 2019
 skills:
   - AWS Cloud (ETL, Redshift, DMS, RDB, S3, Glue, EC2)
+  - Cloud Migration Strategy
+  - Automation Strategy
+  - Data Modelling
   - Python
   - Clinical Data Management
-  - SDTM/ADaM
+  - SDTM/ADaM data formats
+  - Agile Methodology
 
 projects:
-  - name: Chicago Farmers' Market Finder
-    url: https://www.chicagofarmersmarketfinder.com
-    description: A website that geolocates farmers' markets in the Chicago area.  Written in Python
-      with a Sapper/Svelte front-end.
-  - name: Chicago Food Truck Finder
-    url: https://www.chicagofoodtruckfinder.com
-    description: A website that geolocates food trucks on Chicago Streets.  I decomissioned this in
-      2020, but it had a 9 year run as Chicago's premier food truck site.  Including a mention in
-      Wired magazine and other publications.  Written in Java on a google appengine backend
+  - name: Life Sciences Healthcare Podcast
+    description: Conducted podcast sessions with industry experts on a wide array of Life Sciences topics, including personalized medicine and CGT. 
+  - name: CSP Costing Webscraper
+    description: Developed an automated Python tool hosted on AWS that scrapes VM instance costs for the three major CSPs (AWS, Azure, GCP) into a database and Excel workbook on a CRON schedule. 
